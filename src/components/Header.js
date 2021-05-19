@@ -31,7 +31,7 @@ function Header() {
                     <span>Series</span>
                 </a>
             </NavMenu>
-            <UserImg src="https://lh3.googleusercontent.com/-jR0TYkf_8Bo/Xt0TvK9u9wI/AAAAAAAANNA/_fuRJKV9Q_AKorhtnXOLQPM-91ulpr_kwCEwYBhgLKtQDAL1OcqysFX9_rkuPQx6VjNWZYk0FxmP1kWgcCgzjopAPNFESKRp5OcstCbOp-sPBappENJNeQI8CaR2M9vFhQpoVzCkewlLzYjgJr1Jonsypy4dRFHbbXjacWPRDeDHVsardNkKtS48NIqruoA0fK31qzhJ2lXKHGQ3Aia3iJk0rs9CcDQURcxehfaU8LDwHnozHDOAIOKuZry-aM_5pGSrGwMuBm47_hbUZfroDITdDl4VoenO677xXkHp1E3ewLDYyfyzmS7h9mhV1S44VS-KYfGb5vx209FqvtCxBx7PGdMgehwrXEC68xRs-0nlp0v_wGUIpCGb_ZRjdIacKIr81y8unzLFaW09JM-0172wp1nrAgq0DN1bGyxBNs5hGmMxyFpSPU-hsXTxom9_JmSxV6fliD_Z0QmQhENSiy_XrxiSBab53ZXJM5w3ITTa2RuUXsMxCKzXlpyh-jZkCOFsFFrPZPNmxQsnhNQdNy4lU6F2uo3ES53l83aMTL_eP4kGTXvshM1p9O2F1ygwnhdSnYst0iDmccLhLj1N_dDFLA8XvI0PjQG4FWplvNbH2Rdxy--zd-xYHxL5f1avGXM4yK5i0ZIg2ZO4X7EYJMn37W0U_MOCTj4UG/w140-h140-p/CLS_0122859.JPG"/>
+            <UserImg src="/images/user-img.JPG"/>
 
         </Nav>
     )
