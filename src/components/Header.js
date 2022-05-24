@@ -28,10 +28,10 @@ function Header() {
                 </a>
                 <a>
                     <img src="/images/series-icon.svg" />
-                    <span>Series</span>
+                    <span>SERIES</span>
                 </a>
             </NavMenu>
-            <UserImg src="/images/user-img.JPG"/>
+            <UserImg src="/images/profile-img.png"/>
 
         </Nav>
     )
@@ -99,9 +99,9 @@ const NavMenu = styled.div`
 
 const UserImg = styled.img`
     padding-top: 8px;
-    width: 48px;
-    height: 48px;
-    border-radius: 50%;
+    // width: 48px;
+    height: 60px;
+    // border-radius: 50%;
     cursor: pointer;
 
 `
